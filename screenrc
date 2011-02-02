@@ -1,0 +1,45 @@
+# ===============================================================
+# SEE ALSO:
+# ===============================================================
+# SCREEN Pages:
+# http://www.math.fu-berlin.de/~guckes/screen/
+#
+# Commands List (from the manual to screen-3.7.6):
+# http://www.math.fu-berlin.de/~guckes/screen/commands.txt
+#
+# MailingList:
+# http://www.yahoogroups.com/group/gnu-screen/
+#
+# ===============================================================
+# ESCAPE - the COMMAND CHARACTER
+# ===============================================================
+# escape ^aa  # default
+escape ^\\  # suggested binding for emacs users
+#
+# ===============================================================
+startup_message off
+defscrollback 1024
+hardstatus on
+hardstatus alwayslastline
+
+
+autodetach on # Autodetach session on hangup instead of terminating screen completely
+vbell off # turn off visual bell
+bindkey -k k1 select 1
+bindkey -k k2 select 2
+bindkey -k k3 select 3
+bindkey -k k4 select 4
+
+
+#caption always "%{= kc}%H (system load: %l)%-21=%{= .m}%D %d.%m.%Y %0c"
+caption always "%?%{+b kw}%-Lw%?%{yK}%n*%f %t%?(%u)%?%?%{wk}%+Lw%? %{gk}%=%c %{yk}%d/%M/%Y"
+
+
+altscreen on
+
+deflogin off
+defutf8 on
+title screen
+
+termcapinfo rxvt-unicode ti@:te@
+termcapinfo rxvt-unicode 'hs:ts=\E]2;:fs=\007:ds=\E]2;screen\007'
