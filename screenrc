@@ -43,3 +43,9 @@ title screen
 
 termcapinfo rxvt-unicode ti@:te@
 termcapinfo rxvt-unicode 'hs:ts=\E]2;:fs=\007:ds=\E]2;screen\007'
+
+screen	-t	notes	0	yroot radnam
+screen 	-t	tib-tan	1	ssh tiberium-gw.tan.ygrid.yahoo.com
+screen	-t	tib-tan	2	ssh tiberium-gw.tan.ygrid.yahoo.com
+screen	-t	shell	3
+screen	-t	shell	4
