@@ -11,8 +11,9 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Org Mode ;;
-(require 'org-install)
+(setq load-path (cons "~/work/notes/org-7.4/lisp" load-path))
 (add-to-list 'auto-mode-alist '("\\.\\(org\\|org_archive\\|txt\\|gpg\\)$" . org-mode))
+(require 'org-install)
 
 ;; Standard key bindings
 (global-set-key "\C-cl" 'org-store-link)
@@ -26,9 +27,7 @@
 			       "~/work/notes/vespa.org.gpg"
 			       "~/work/notes/yinst.org.gpg"
 			       "~/work/notes/goals_2011.org.gpg"
-			       "~/work/notes/decomposition.org.gpg"
 			       "~/work/notes/personal.org.gpg"
-			       "~/work/notes/mandar.org.gpg"
 			       "~/work/notes/learn.org.gpg")))
 
 
@@ -40,7 +39,7 @@
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
- '(org-agenda-files (quote ("~/work/notes/woo.org.gpg" "~/work/notes/vespa.org.gpg" "~/work/notes/yinst.org.gpg" "~/work/notes/goals_2011.org.gpg" "~/work/notes/decomposition.org.gpg" "~/work/notes/personal.org.gpg" "~/work/notes/mandar.org.gpg" "~/work/notes/learn.org.gpg"))))
+ '(org-agenda-files (quote ("~/work/notes/personal.org.gpg" "~/work/notes/woo.org.gpg" "~/work/notes/vespa.org.gpg" "~/work/notes/yinst.org.gpg" "~/work/notes/goals_2011.org.gpg" "~/work/notes/decomposition.org.gpg" "~/work/notes/mandar.org.gpg" "~/work/notes/learn.org.gpg"))))
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
