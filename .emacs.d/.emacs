@@ -24,9 +24,6 @@
 (global-set-key (kbd "<f7>") 'org-agenda)
 
 (setq org-agenda-files (quote ("~/work/notes/woo.org.gpg"
-			       "~/work/notes/vespa.org.gpg"
-			       "~/work/notes/yinst.org.gpg"
-			       "~/work/notes/goals_2011.org.gpg"
 			       "~/work/notes/personal.org.gpg"
 			       "~/work/notes/learn.org.gpg")))
 
@@ -34,18 +31,6 @@
 ;; Emacs 23: bundled EasyPG
 (require 'epa)
 (epa-file-enable)
-(custom-set-variables
-  ;; custom-set-variables was added by Custom.
-  ;; If you edit it by hand, you could mess it up, so be careful.
-  ;; Your init file should contain only one such instance.
-  ;; If there is more than one, they won't work right.
- '(org-agenda-files (quote ("~/work/notes/personal.org.gpg" "~/work/notes/woo.org.gpg" "~/work/notes/vespa.org.gpg" "~/work/notes/yinst.org.gpg" "~/work/notes/goals_2011.org.gpg" "~/work/notes/decomposition.org.gpg" "~/work/notes/mandar.org.gpg" "~/work/notes/learn.org.gpg"))))
-(custom-set-faces
-  ;; custom-set-faces was added by Custom.
-  ;; If you edit it by hand, you could mess it up, so be careful.
-  ;; Your init file should contain only one such instance.
-  ;; If there is more than one, they won't work right.
- )
 
 
 ;; turn iswitch-mode 1
