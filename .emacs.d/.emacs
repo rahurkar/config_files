@@ -36,3 +36,8 @@
 ;; turn iswitch-mode 1
 (iswitchb-mode 1)
 (setq iswitchb-buffer-ignore '("^ " "*Buffer"))
+
+
+;; Add w3m
+(add-to-list 'load-path "/Applications/Emacs.app/Contents/share/emacs/site-lisp/w3m")
+(require 'w3m-load)
