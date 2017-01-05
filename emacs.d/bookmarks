@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored-marker"
+ (filename . "~/work/labs/notes/zchime.org.gpg")
+ (front-context-string . "** Potential Par")
+ (rear-context-string . "   - Solid team\n")
+ (position . 3330))
+("org-refile-last-stored"
+ (filename . "~/work/labs/notes/zchime.org.gpg")
+ (front-context-string . "** Potential Par")
+ (rear-context-string . "   - Solid team\n")
+ (position . 3330))
+("org-capture-last-stored"
+ (filename . "~/work/labs/notes/refile.org.gpg")
+ (front-context-string)
+ (rear-context-string . "nd Investment]]\n")
+ (position . 834))
+)

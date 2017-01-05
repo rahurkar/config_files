@@ -38,7 +38,7 @@
                "* NEXT Respond to %:from on %:subject\nSCHEDULED: %t\n%U\n%a\n" :clock-in t :clock-resume t :immediate-finish t)
               ("n" "note" entry (file "~/work/labs/notes/refile.org")
                "* %? :NOTE:\n%U\n%a\n" :clock-in t :clock-resume t)
-              ("j" "Journal Entry" entry (file "~/work/labs/notes/diary.org")
+              ("j" "Journal Entry" entry (file+datetree+prompt "~/work/labs/notes/diary.org")
                "* %? \n%U\n" :clock-in t :clock-resume t)
               ("w" "org-protocol" entry (file "~/work/labs/notes/refile.org")
                "* TODO Review %c\n%U\n" :immediate-finish t)

@@ -1,0 +1,129 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/radnam/Dropbox/Meghna Registration/Filled Forms/" . "Done/")
+ ("/Users/radnam/Dropbox/Meghna Registration/" . "Filled Forms/")
+ ("/Users/radnam/work/labs/carechime/homepage/carechime/static/" . "css/")
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/" . "src/")
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/" . "payment/")
+ ("/Users/radnam/work/labs/zchime/homepage/carechime/static/" . "css/")
+ ("/Users/radnam/work/labs/" . "notes_/")
+ ("/Users/radnam/Dropbox/" . "Meghna Registration/")
+ ("/Users/radnam/" . ".emacs.d/")
+ ("/Users/radnam/work/" . "labs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/radnam/work/labs/learn/iprep/"
+ "/Users/radnam/work/labs/learn/turo/"
+ "/Users/radnam/Dropbox/Meghna Registration/"
+ "/Users/radnam/work/labs/learn/prismic/nodejs-sdk-2.0.2/views/"
+ "/Users/radnam/work/labs/carechime/homepage/carechime/static/css/"
+ "/Users/radnam/work/labs/carechime/homepage/carechime/"
+ "/Users/radnam/work/labs/notes/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/payment/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/response/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/helper/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/orders/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/provider/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/config/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/insurance/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/patient/"
+ "/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/location/"
+ "/Users/radnam/work/labs/zchime/homepage/carechime/"
+ "/Users/radnam/work/labs/zchime/homepage/carechime/static/css/"
+ "/Users/radnam/.emacs.d/"
+ "/Users/radnam/work/labs/notes_/"
+ "/Users/radnam/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "year_count.py"
+ "test.py"
+ "trees.py"
+ "arrays.py"
+ "turo.conf"
+ "join_files.py"
+ "thoughts.py"
+ "notes.txt"
+ "index.pug"
+ "style.css"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/radnam/work/labs/learn/iprep/" (22511 15498 0 0) "year_count.py~" "year_count.py" "trees.py" "test.py" "operator_use.py" "linked_list.py" "itertools_use.py" "count_and_say.py" "binary.py" "atoi.py" "asana_bot.py" "arrays.py" "../" "./")
+
+ ("/Users/radnam/" (22491 59924 0 0) "work/" "temp/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Applications/" ".vscode/" ".vnc/" ".viminfo" ".vagrant.d/" ".Trash/" ".subversion/" ".ssh/" ".scala_history" ".rnd" ".rediscli_history" ".qgis2/" ".psql_history" ".pip/" ".pgpass" ".npm/" ".matplotlib/" ".lesshst" ".ipython/" ".ido.last~" ".ido.last" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".cups/" ".config/" ".cocoapods/" ".CFUserTextEncoding" ".bashrc~" ".bashrc" ".bash_sessions/" ".bash_history" "../" "./")
+
+ ("/Users/radnam/.emacs.d/" (22500 16171 0 0) "org-clock-save.el~" "org-clock-save.el" "material-theme.el" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "bookmarks" "auto-save-list/" ".org-id-locations" ".emacs~" ".emacs" "../" "./")
+
+ ("/Users/radnam/Dropbox/Meghna Registration/" (22489 49956 0 0) "tb risk assessment for school entry form.pdf" "student_emergency_card_2016.pdf" "scusd registration form - english.pdf" "Residency Declaration Form 2016-2017 - English.pdf" "pm171a(bi).pdf" "oral health assessment form.pdf" "notes.txt~" "notes.txt" "Icon
+" "health history form.pdf" "Filled Forms/" "emergency release form.pdf" ".DS_Store" ".dropbox" "../" "./")
+
+ ("/Users/radnam/work/labs/learn/turo/" (22498 59741 0 0) "~$turo.xlsx" "xgboost/" "xgb.fmap" "xg_turo.py" "xg_toy.py~" "xg_toy.py" "xg_kaggle.py" "xg.py" "xg.log" "vw.log" "vowpal_wabbit/" "vehicles_(6).csv" "turo_xg.model" "turo_vw.train" "turo_vw.test" "turo_vw.readmodel" "turo_vw.pred" "turo_vw.model" "turo_csv.train" "turo_csv.test" "turo.xlsx" "turo.train" "turo.total" "turo.test" "turo.pred" "turo.model" "turo.log" "turo.fmap" "turo.docx" "turo.conf" "turo.cache" "turo.anal5" "turo.anal3" "turo.anal2" "turo.anal" "train_vw.sh" "toy.train" "thoughts.py" "temp.del" "temp/" "targets" "submission_0.122956583333_2016-09-20-16-40.csv" "runexp.sh" "reservations_(5).csv" "raw_fea.fea" "predicted" "pred.txt" "perf.src.tar.gz" "perf.src/" "learner/" "join_files.py" "housing/" "generate_data.py~" "generate_data.py" "fi_turo.py" "features_importance.npy" "feamap.txt" "fea_gen_vw.py" "fea_gen_csv.py" "fea_gen.py" "estimate_rmse.py" "dump.raw.txt" "confusion.matrix" "analyze_tech" "analyze_price.py" "analyze_desc.py" "../" "./")
+
+ ("/Users/radnam/Dropbox/Meghna Registration/Filled Forms/Done/" (22174 61007 0 0) "Verizon-Bill-01-12-2016.pdf" "Verizon-1page.pdf" "svp.pdf" "scusd registration form - english.pdf" "Residency Declaration Form 2016-2017 - English.pdf" "pge_latest_bill.pdf" "oral_history_from_doctor.pdf" "oral health assessment form.pdf" "KG Info sheet.pdf" "emergency release form_toprint.pdf" "emergency release form.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/Dropbox/Meghna Registration/Filled Forms/" (22174 61042 0 0) "pm171a(bi).pdf" "health history form.pdf" "health history -- toprint.pdf" "Done/" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/orders/" (22202 16951 0 0) "orders_parse.py~" "orders_parse.pyc" "orders_parse.py" "orders_api.py~" "orders_api.pyc" "orders_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/helper/" (22202 16890 0 0) "parse_helper_functions.py~" "parse_helper_functions.pyc" "parse_helper_functions.py" "errors.pyc" "errors.py" "db_to_resp_mandar.py~" "db_to_resp.pyc" "db_to_resp.py" "constants.pyc" "constants.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/response/" (22237 64956 0 0) "time.json~" "time.json" "services.json" "schedule.json~" "schedule.json" "provider_000000.json" "payor.json" "orders.json~" "orders.json" "location.json" "insurance.json" "family.json" "doctor.json" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/payment/" (22279 60906 0 0) "payment_parse.pyc" "payment_parse.py" "payment_api.pyc" "payment_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/notes/" (22432 53445 0 0) "zchime.org.gpg_archive" "zchime.org.gpg" "zchime.org" "timespent.org.gpg" "temp.txt" "refile.org.gpg" "refile.org" "personal.org.gpg" "personal.org" "org-mode/" "org-7.4/" "old/" "mandar.org.gpg" "learn.org.gpg" "habits.org.gpg" "diary.org.gpg" "diary.org" "design_questions.txt" "decomposition.org.gpg" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/homepage/carechime/" (22317 12964 0 0) "typeform.html~" "typeform.html" "terms_files/" "terms.html" "static/" "privacy_files/" "privacy.html" "pitch.html~" "pitch.html" "learn.html" "inner.html" "index.html" "faq.html" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/labs/learn/prismic/nodejs-sdk-2.0.2/views/" (22387 2312 0 0) "layout.pug" "index.pug~" "index.pug" "../" "./")
+
+ ("/Users/radnam/work/labs/learn/prismic/nodejs-sdk-2.0.2/" (22387 2032 0 0) "views/" "README.md" "public/" "prismic-configuration.js~" "prismic-configuration.js" "package.json" "node_modules/" "config.js" "app.js~" "app.js" ".gitignore" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/homepage/carechime/static/css/" (22193 12569 0 0) "style.css" "images/" "fonts/" "bootstrap.min.css" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/homepage/carechime/static/" (22219 20328 0 0) "js/" "images/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/" (22265 32375 0 0) "wsgi.py" "testapp.py" "test/" "services/" "schedule/" "response/" "provider/" "payor/" "payment/" "patient/" "orders/" "onboard/" "location/" "ios_backend.py" "insurance/" "helper/" "doctor/" "delme.py" "config/" "calendar_screen.png" "best_time/" "api_v1.py" "api.ini" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/config/" (22278 44814 0 0) "settings_local.pyc" "settings_local.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/insurance/" (22197 11237 0 0) "insurance_parse_new.pyc" "insurance_parse.py~" "insurance_parse.pyc" "insurance_parse.py" "insurance_api.py~" "insurance_api.pyc" "insurance_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/provider/" (22195 62490 0 0) "provider_parse.py~" "provider_parse.pyc" "provider_parse.py" "provider_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/patient/" (22195 51262 0 0) "patient_parse.py~" "patient_parse.pyc" "patient_parse.py" "patient_api.py~" "patient_api.pyc" "patient_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/location/" (22195 45114 0 0) "location_parse.py~" "location_parse.pyc" "location_parse.py" "location_api.py~" "location_api.pyc" "location_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/" (22178 33048 0 0) "src/" "README.md~" "README.md" "images/" "env/" "backend_env/" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/radnam/work/labs/carechime/ConsumerFacingApp/ZChimeBackend/src/payor/" (22183 1098 0 0) "payor_api.py~" "payor_api.pyc" "payor_api.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/radnam/work/labs/zchime/homepage/carechime/" (22193 14778 0 0) "terms_files/" "terms.html" "static/" "privacy_files/" "privacy.html" "learn.html~" "learn.html" "inner.html" "index.html" "faq.html" "../" "./")
+
+ ("/Users/radnam/work/labs/zchime/homepage/carechime/static/css/" (22191 40583 0 0) "style.css" "images/" "fonts/" "bootstrap.min.css" "../" "./")
+
+ ("/Users/radnam/work/labs/zchime/homepage/carechime/static/" (21475 48580 0 0) "js/" "images/" "css/" "../" "./")
+
+ ("/Users/radnam/work/labs/notes_/" (22155 944 0 0) "todo.org~" "todo.org" "restendpoints" "onepager~" "onepager" "meeting~" "meeting" "email.txt" "elation" "design_questions.txt" "datamodel~" "datamodel" "#elation#" "../" "./")
+
+ ("/Users/radnam/Dropbox/" (22166 35655 0 0) "zitherchime/" "vldb_2013/" "Ultrasound/" "udacity_web/" "Tips and Tricks/" "slideshare/" "Self Improvement/" "rxhelper/" "resume/" "raising money/" "prognocis data/" "Product_placement/" "PIEEE09/" "On demand wellness/" "My Stuff/" "MR Data Analysis/" "misc/" "Meghna Registration/" "lighthouse_new_design/" "lighthouse_metadata (2)/" "lighthouse_metadata (1)/" "Lighthouse Shared/" "Lighthouse Design/" "leaving yahoo/" "index_data/" "Immigration/" "Icon
+" "guns/" "googlecodesample/" "Google Fonts/" "Finance/" "Filing/" "ebooks/" "Design with Lalit Salunkhe/" "Design with Gouri Shah/" "cosumer_app_workflow.png" "ConsumerFacing with Mike/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/" (22147 27247 0 0) "Shared/" "radnam/" ".localized" "../" "./")
+
+ ("/Users/radnam/work/labs/" (22157 25144 0 0) "work.tgz" "video/" "vaccine_management/" "tumblr/" "ssl/" "seer/" "rxhelper_new/" "rxhelper/" "rx_helper_prod/" "poorva/" "pig_utils/" "ovh_backup/" "ovh/" "operations/" "old_ui.tgz" "ol/" "notes_/" "notes/" "misc_data/" "mda_data/" "mda-ui/" "login/" "lighthouse/" "learn/" "ihf/" "HelloWorld/" "health/" "ha/" "emacs~" "emacs" "ConsumerFacingBackend/" "ConsumerFacingApp/" "bz_rxhelper/" "bz_keys/" "bz/" "adobe/" ".DS_Store" "../" "./")
+
+ ("/Users/radnam/work/" (22156 7945 0 0) "utilities/" "test.txt" "temp/" "screenrc" "MyPlayground.playground/" "labs/" "How Many Fingers/" "Example App/" "config_files/" "CatYears/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
